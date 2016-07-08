@@ -2,7 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://stosc.gitub.io/</loc>
+    <loc>/</loc>
+    <lastmod>2016-07-08T14:48:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first/</loc>
+    <lastmod>2016-07-08T14:48:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-07-08T12:01:43+08:00</lastmod>
   </url>
   
 </urlset>

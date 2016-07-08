@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on stosc博客</title>
-    <link>http://stosc.gitub.io/tags/golang/</link>
+    <link>/tags/golang/</link>
     <description>Recent content in Golang on stosc博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jul 2016 14:48:34 +0800</lastBuildDate>
-    <atom:link href="http://stosc.gitub.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>第一篇</title>
-      <link>http://stosc.gitub.io/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Fri, 08 Jul 2016 14:48:34 +0800</pubDate>
       
-      <guid>http://stosc.gitub.io/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
